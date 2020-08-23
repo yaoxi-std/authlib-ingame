@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "yaoxi.std.minecraft.authlib.ingame.mixins",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "AuthTitleScreen"
+  ],
+  "client": [
+    "AuthTitleScreen"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

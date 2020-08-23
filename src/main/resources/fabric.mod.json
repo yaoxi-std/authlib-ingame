@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "authlib-ingame",
+  "version": "1.0.0",
+
+  "name": "authlib-ingame",
+  "description": "This is an example description! Tell everyone what your mod is about!",
+  "authors": [
+    "yaoxi_std"
+  ],
+  "contact": {
+    "homepage": "https://fabricmc.net/",
+    "sources": "https://github.com/FabricMC/fabric-example-mod"
+  },
+
+  "license": "CC0-1.0",
+  "icon": "assets/authlib-ingame/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "yaoxi.std.minecraft.authlib.ingame.Main"
+    ]
+  },
+  "mixins": [
+    "authlib-ingame.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.7.4",
+    "fabric": "*",
+    "minecraft": "1.14.x"
+  },
+  "suggests": {
+    "flamingo": "*"
+  }
+}

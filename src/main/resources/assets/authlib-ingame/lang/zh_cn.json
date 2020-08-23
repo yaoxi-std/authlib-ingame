@@ -1,0 +1,20 @@
+{
+  "text.authlib-ingame.title.login": "登录",
+  "text.authlib-ingame.authselector.title": "选择账户",
+  "text.authlib-ingame.authselector.create": "创建账户",
+  "text.authlib-ingame.authselector.select": "选择",
+  "text.authlib-ingame.authselector.edit": "编辑",
+  "text.authlib-ingame.authselector.delete": "删除",
+  "text.authlib-ingame.authselector.recreate": "重建",
+  "text.authlib-ingame.authselector.cancel": "取消",
+  "text.authlib-ingame.authlistwidget.unable_to_load": "无法加载该角色",
+  "text.authlib-ingame.authlistwidget.selected": "已选择: %s",
+  "text.authlib-ingame.authlistwidget.player": "账户",
+  "text.authlib-ingame.authlistwidget.back": "返回",
+  "text.authlib-ingame.createauth.api.Mojang_API": "正版登录",
+  "text.authlib-ingame.createauth.api.Authlib_Injector": "外置登录",
+  "text.authlib-ingame.createauth.api.Offline": "离线登录",
+  "text.authlib-ingame.createauth.button.username": "用户名",
+  "text.authlib-ingame.createauth.button.password": "密码",
+  "text.authlib-ingame.createauth.button.server": "验证服务器地址"
+}
